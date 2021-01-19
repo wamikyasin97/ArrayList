@@ -1,0 +1,13 @@
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\bin\Debug\netcoreapp3.1\Collections_ArrayList.exe
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\bin\Debug\netcoreapp3.1\Collections_ArrayList.deps.json
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\bin\Debug\netcoreapp3.1\Collections_ArrayList.runtimeconfig.json
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\bin\Debug\netcoreapp3.1\Collections_ArrayList.runtimeconfig.dev.json
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\bin\Debug\netcoreapp3.1\Collections_ArrayList.dll
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\bin\Debug\netcoreapp3.1\Collections_ArrayList.pdb
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\obj\Debug\netcoreapp3.1\Collections_ArrayList.csprojAssemblyReference.cache
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\obj\Debug\netcoreapp3.1\Collections_ArrayList.AssemblyInfoInputs.cache
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\obj\Debug\netcoreapp3.1\Collections_ArrayList.AssemblyInfo.cs
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\obj\Debug\netcoreapp3.1\Collections_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\obj\Debug\netcoreapp3.1\Collections_ArrayList.dll
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\obj\Debug\netcoreapp3.1\Collections_ArrayList.pdb
+C:\Users\techverx\source\repos\Collections_ArrayList\Collections_ArrayList\obj\Debug\netcoreapp3.1\Collections_ArrayList.genruntimeconfig.cache
